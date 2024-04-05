@@ -1,0 +1,1 @@
+export const dbString = process.env.DB_STRING || "";

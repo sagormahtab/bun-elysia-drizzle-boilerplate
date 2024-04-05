@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { Elysia } from "elysia";
 import routes from "./routes";
 
